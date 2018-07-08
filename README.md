@@ -1,5 +1,7 @@
 # yakitate
  * * * 
+![Imgur](https://i.imgur.com/rmkTGyT.jpg)
+
 ## 【サービス概要】<br>
 あなたの近くのパン屋さんの焼きたてパン情報がわかる！<br>
 <br>
